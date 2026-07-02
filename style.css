@@ -1,1 +1,16 @@
+body {
+  background-color: #c5c7f1;
+  font-family: Trebuchet MS;
+  text-align: center;
+}
 
+h1 {
+  font-style: italic;
+  font-size: 40px;
+  color: #3c075f;
+}
+
+#link {
+  font-style: italic;
+  color: #0f0f8a;
+}
